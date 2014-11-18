@@ -56,6 +56,10 @@ github "ruby",        "8.1.4"
 github "stdlib",      "4.2.1", :repo => "puppetlabs/puppetlabs-stdlib"
 github "sudo",        "1.0.0"
 github "xquartz",     "1.2.1"
+github "evernote",    "2.0.7"
+github "tmux",        "1.0.2"
+github "vim",         "1.0.5"
+github "python",      "2.0.0"
 
 # Optional/custom modules. There are tons available at
 # https://github.com/boxen.
