@@ -79,7 +79,11 @@ node default {
   # Extra applications
   include evernote
   include tmux
-
+  class { 'firefox':
+    version => '33.1.1'
+  }
+  include calibre
+  include iterm2::stable, iterm2::colors::solarized_light
 
   # VIM
   include python

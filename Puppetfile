@@ -60,6 +60,9 @@ github "evernote",    "2.0.7"
 github "tmux",        "1.0.2"
 github "vim",         "1.0.5"
 github "python",      "2.0.0"
+github "firefox",     "1.2.3"
+github "calibre",     "3.1.0"
+github "iterm2",      "1.2.2"
 
 # Optional/custom modules. There are tons available at
 # https://github.com/boxen.
